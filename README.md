@@ -1,5 +1,5 @@
 Sistema_de_Cadastro
-Criação de um Sistema de Cadastro
+Criação de um Sistema de Cadastro através de fornecimento de dados (nome, email, senha)
 
 
 
@@ -16,21 +16,18 @@ Criação de um Sistema de Cadastro
 ## Ferramentas usadas no Projeto
 
 [x] GitHub
-[x] xxxx
-[x] xxxxx
+[x] Kivy
 [x] VsCode
 [x] Python
 
 
 ## Uso da aplicação
 
-Através da interface Gráfica do xxxxxx, será totalmente utilizavel a seu Sistema de Cadastro, conforme  podemos ver abaixo:
+Através da interface Gráfica do Kivy, será totalmente utilizavel a seu Sistema de Cadastro, conforme  podemos ver abaixo:
 
 Visual inicial:
 
 ![tela inicial sistema de cadastro](https://user-images.githubusercontent.com/115501310/202873596-45cc51a5-fd07-4fc6-a4fe-d38fcd00b305.JPG)
-
-
 
 
 
